@@ -8,6 +8,7 @@
 
 double getTemp(int x);
 
+// this lines have been deleted for tetisng purpose
 
 
 char array[10],array2[10];     //   1 4 6 2 0  01246
@@ -706,7 +707,7 @@ void main()
 		   
 	//////////////////////////////////////////////////////////////////////////////////////////////////////////////
 			
-	  if (temp>=40 ) 
+	  if (temp>=40 && temp<=55) 
 	  {
 		  flag1=1;
 		  
@@ -814,7 +815,7 @@ void main()
 				  
 													  flag1=0; count=1;
 			  }
-			  //
+			  
 			  else if ((f1>1000 && f2<1000) && (count==1))
 			  {
 				  

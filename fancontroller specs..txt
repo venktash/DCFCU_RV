@@ -1,0 +1,6 @@
+required 2 fans  connector output 
+2 temp. sensor for in and out area 
+smoke alarm ...smoke sensor required 
+instead of level put fan speed percentage 
+battery vlotage read and dsiplay on lcd
+ 
